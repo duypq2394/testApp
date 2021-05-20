@@ -18,6 +18,7 @@
                 <li><a href="Coffee.php">Coffee</a></li>
                 <li><a href="#">Shop</a></li>
                 <li><a href="#">About</a></li>
+                <li><a href="Management.php">Management</a></li>
             </ul>
         </nav>
 

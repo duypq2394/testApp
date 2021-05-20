@@ -1,5 +1,5 @@
 body {
-    font-family: lucida grande, Tahoma, Verdana, Arial, sans-serif;
+    font-family: lucida grande, tahoma, verdana, arial, sans-serif;
     background-color: #e9e9e9;
 }
 
@@ -105,4 +105,51 @@ nav a:visited {
     height: 250px;
     margin: 0px 0 10px 10px;
     padding: 10px;
+}
+
+.coffeeTable {
+    width: 750px;
+    height: 250px;
+    margin: 10px 10px 10px 0;
+    border: 3px solid #E3E3E3;
+    border-radius: 10px;
+}
+
+.coffeeTable tr th,
+.coffeeTable tr td {
+    text-align: left;
+    padding: 0px 5px 0 5px;
+}
+
+.coffeeTable img {
+    padding: 0px 10px 10px 10px;
+    height: 150px;
+    width: 150px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+
+.inputField {
+    width: 280px;
+    padding: 4px;
+}
+
+label {
+    float: left;
+    width: 100px;
+    font-weight: bold;
+}
+
+.overViewTable {
+    width: 700px;
+}
+
+.overViewTable tr {
+    padding: 4px;
+}
+
+.overViewTable td {
+    padding: 4px;
+    border: 1px solid #E3E3E3;
 }
